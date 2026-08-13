@@ -53,13 +53,9 @@
     "recommendedRunInterval": "30m"
   },
   {
-7
 "name": "BlockedValidPassword",
-8
 "label": "Alert when a correct password is blocked by a security control",
-9
 "recommendedRunInterval": "30m"
-10
 },
   {
     "name": "InactiveLicensedUsers",
